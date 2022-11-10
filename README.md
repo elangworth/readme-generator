@@ -1,4 +1,5 @@
-README generator
+## README generator
+
 ##Table of Contents
 * [Description] (#Description)
 * [Install] The technologies I used were:
