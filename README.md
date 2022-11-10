@@ -13,9 +13,13 @@ This project allowed me to utilize some of the new skills I learned in this week
 
 ## Install
 The technologies I used were:
+Javascript
+Node
+fs
+inquirer
 
 ## Usage
-inquirer
+My project will be used to generate READMEs for my Github projects.
 
 ## License
 [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
