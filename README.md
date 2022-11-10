@@ -1,6 +1,6 @@
 ## README generator
 
-##Table of Contents
+## Table of Contents
 * [Description] (#Description)
 * [Install] The technologies I used were:
 * [Usage] (#Usage)
